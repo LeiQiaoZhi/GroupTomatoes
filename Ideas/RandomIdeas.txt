@@ -1,0 +1,21 @@
+Just put down random ideas
+
+
+1. Location-based Instagram
+   > post photos to the location where the photo was taken
+   > view photos taken by others based on location (just like browsing nearby restaurants in Google Map)
+   > like posts/ save posts/ follow accounts (just like Instagram)
+   
+   e.g. a professional took an amazing photo of the cat in RJ canteen, he posts it 
+   on our app with a description(how he took the photo, how he found the cat, how cute the cat is, etc.).
+   Users can see the post represented by a dot in the main page(a map view) pinpointed at the location of RJ canteen, 
+   clicking on the dot, users can view the full post(the photo, the description, the uploader, etc.)
+   
+   The point of the whole app is to let people discover how beautiful their ordinary surroundings can be in photos, 
+   and for photographers to post their work in a different and interesting way.
+   
+   
+   2.
+   
+   
+   3.
